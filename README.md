@@ -1,5 +1,5 @@
 # Busy
-Busy is a mouse movement simulator. Busy makes you look busy
+Busy is a mouse movement simulator.
 
 Start it up before you move away from your screen. It will send periodic mouse movements to keep the session alive so that you may get any notifications.
 
