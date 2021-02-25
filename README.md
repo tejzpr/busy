@@ -1,4 +1,4 @@
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://i.imgur.com/r3eiZjW.png)](https://en.wikipedia.org/wiki/Open_source)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tejzpr/busy)
 
 # Busy
