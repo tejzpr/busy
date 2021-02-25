@@ -6,3 +6,8 @@ Start it up before you move away from your screen. It will send periodic mouse m
 
 ![Busy Screenshot](https://raw.githubusercontent.com/tejzpr/busy/main/screenshots/busy.png)
 
+# Build on Windows
+Building busy in windows requires Mingw64 or  [TDM-GCC](https://jmeubank.github.io/tdm-gcc/download/) along with [Zlib](https://sourceforge.net/projects/mingw-w64/files/External%20binary%20packages%20%28Win64%20hosted%29/Binaries%20%2864-bit%29/zlib-1.2.5-bin-x64.zip/download) then 
+1. copy _\zlib\bin to \TDM\bin
+2. copy \zlib\include to \TDM\include
+3. copy \zlib\lib to \TDM\lib
