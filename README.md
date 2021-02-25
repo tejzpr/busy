@@ -8,7 +8,7 @@ Busy is a mouse movement simulator.
 Download executables for Mac OS (Darwin), Linux & Windows from [here](https://github.com/tejzpr/busy/releases)
 
 
-# Intro
+# Description
 Start it up before you move away from your screen. It will send periodic mouse movements to keep the session alive so that you may get any notifications that may not show up if the system goes to sleep during short periods of inactivity.
 
 
