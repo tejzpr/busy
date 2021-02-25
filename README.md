@@ -2,7 +2,7 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tejzpr/busy)
 
 # Busy
-Busy is a mouse movement simulator.
+Busy is a mouse movement simulator. It stops your system from going to sleep / idling and makes sure that you keep getting notifications while you take that well deserved break.
 
 # Download
 Download executables for Mac OS (Darwin), Linux & Windows from [here](https://github.com/tejzpr/busy/releases)
