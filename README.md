@@ -1,5 +1,6 @@
-[![Open Source Love](https://i.imgur.com/r3eiZjW.png)](https://en.wikipedia.org/wiki/Open_source)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%20-green?logo=open-source-initiative&logoColor=white&color=blue&labelColor=blue)](https://en.wikipedia.org/wiki/Open_source)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/tejzpr/busy)
+[![Golang](https://img.shields.io/badge/-Go%20Lang-blue?logo=go&logoColor=white)](https://golang.org)
 
 # About
 Busy is a mouse movement simulator. It stops your system from going to sleep / idling and makes sure that you keep getting notifications while you take that well deserved break.
