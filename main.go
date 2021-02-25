@@ -34,7 +34,7 @@ func main() {
 	}()
 
 	fmt.Println("Press ctrl+shift+q to exit")
-	ticker := time.NewTicker(1 * time.Second)
+	ticker := time.NewTicker(5 * time.Second)
 
 	runner := func(fn caller) {
 		for {
@@ -76,7 +76,7 @@ func main() {
 		go runner(func() {
 			w.RequestFocus()
 			w.CenterOnScreen()
-			busy.Text = fmt.Sprintf("I've been busy for : %s", time.Since(start).Round(1*time.Second).String())
+			busy.Text = fmt.Sprintf("I've been busy for : %s", time.Since(start).Round(5*time.Second).String())
 			busyContainer.Refresh()
 		})
 		w.ShowAndRun()
